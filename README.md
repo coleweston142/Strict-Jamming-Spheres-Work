@@ -3,11 +3,13 @@ Strict jamming has the property that the packing resists collective movement of 
 even when combined with a volume-nonincreasing deformation of the system boundary.
 
 The conjectured lower bound for strictly jammed spheres in 3 dimensions has density = . 0.49365
-
-A handful of periodic candidates that exist well below this density have been uncovered.
+------------------------------------------------------------------------------------------------
+A handful of periodic candidates that exist well below this density have been uncovered with the
+lowest achieving (x)
+-
 
 Process:
-
+--------
   These structures are highly geometric, and with the exception of the lowest density candidate, 
   their 'mesh' or resting layer has been human-designed. These meshes were then analyzed using
   GPT 6.1 and related models to uncover methods of using the natural placements admitted to jam the
@@ -21,7 +23,7 @@ Process:
 
 
 Properties:
-
+-----------
   Two of these candidates admit surprisingly large vertical tunnels. The need for large convex regions at 
   low densities follows naturally from the convexity requirement of local jamming. These vertical tunnels
   are contained within a highly geometric surrounding structure highly reminiscent of high order tilings.
