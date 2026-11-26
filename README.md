@@ -11,7 +11,8 @@ Process:
   These structures are highly geometric, and with the exception of the lowest density candidate, 
   their 'mesh' or resting layer has been human-designed. These meshes were then analyzed using
   GPT 6.1 and related models to uncover methods of using the natural placements admitted to jam the
-  construction and reduce the number of total spheres required upon finding a strictly jammed candidate
+  construction and reduce the number of total spheres required upon finding a strictly jammed candidate.
+  The proofs for their strict jammed-ness are AI generated.
 
   Legal placements on this mesh, for the class identified, 
   have row-to-row heights equivalent to (h1) or (h2) which are equivalent in height to the placements 
