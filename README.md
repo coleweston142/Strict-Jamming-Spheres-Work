@@ -17,7 +17,7 @@ Process:
   Legal placements on this mesh, for the class identified, 
   have row-to-row heights equivalent to (h1) or (h2) which are equivalent in height to the placements 
   admitted by placing one sphere in the natural resting location between 3 mutually touching planar spheres,
-  and 4 mutually touching planar spheres.
+  and 4 mutually touching planar spheres respectively.
 
 
 Properties:
@@ -30,6 +30,6 @@ Properties:
   larger tunnels within periodic packings, however this does appear to get significantly more difficult
   past structures containing 'rings' of more than 16 spheres, due to significant challenges in finding 
   structures that preserve the symmetry used up to this point.
-
+----------------------------------------------------------------------------------------------------
 If you have the time and resources to collaborate on producing a manuscript feel free to reach out.
-
+----------------------------------------------------------------------------------------------------
