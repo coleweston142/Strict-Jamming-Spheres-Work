@@ -31,3 +31,5 @@ Properties:
   past structures containing 'rings' of more than 16 spheres, due to significant challenges in finding 
   structures that preserve the symmetry used up to this point.
 
+If you have the time and resources to collaborate on producing a manuscript feel free to reach out.
+
